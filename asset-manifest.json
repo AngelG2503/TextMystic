@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextMystic/static/css/main.f855e6bc.css",
+    "main.js": "/TextMystic/static/js/main.b7c7e383.js",
+    "static/js/453.3188bae3.chunk.js": "/TextMystic/static/js/453.3188bae3.chunk.js",
+    "index.html": "/TextMystic/index.html",
+    "main.f855e6bc.css.map": "/TextMystic/static/css/main.f855e6bc.css.map",
+    "main.b7c7e383.js.map": "/TextMystic/static/js/main.b7c7e383.js.map",
+    "453.3188bae3.chunk.js.map": "/TextMystic/static/js/453.3188bae3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b7c7e383.js"
+  ]
+}
